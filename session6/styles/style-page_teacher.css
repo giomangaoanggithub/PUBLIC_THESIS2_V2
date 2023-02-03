@@ -1,0 +1,67 @@
+html,
+body {
+  background-color: green;
+}
+.enter-company {
+  text-align: center;
+  color: white;
+  padding-top: 10rem;
+  background-color: green;
+}
+.enter-company input[type="password"] {
+  width: 50%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  font-size: x-large;
+}
+#no-company {
+  width: 3%;
+}
+#in-company {
+  width: 45%;
+}
+.main-content {
+  background-color: green;
+  display: none;
+}
+.room-section-title {
+  text-align: center;
+  background-color: greenyellow;
+}
+.table {
+  text-align: center;
+  border: hidden;
+}
+.table tr {
+  border: hidden;
+}
+.table th {
+  color: white;
+}
+.table2 tr {
+  border: 2px solid black;
+}
+.table2 th {
+  color: white;
+}
+.table2 td {
+  background-color: white;
+  color: black;
+}
+.student_answer {
+  width: 80%;
+}
+.teacher_action {
+  width: 20%;
+}
+.right-content {
+  text-align: center;
+}
+.right-buttons button {
+  margin-bottom: 2%;
+  width: 100%;
+}
+#company_name {
+  width: 50%;
+  font-size: x-large;
+}
